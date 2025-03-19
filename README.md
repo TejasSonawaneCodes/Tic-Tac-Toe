@@ -1,18 +1,22 @@
 Tic-Tac-Toe Game
 
+
 A simple and interactive Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Play against a friend and relive the classic fun !
 
-🚀 Features : 
 
-🎨 Modern UI with smooth hover effects
 
-🔄 Reset & New Game options
+Features 🚀 : 
 
-🛑 Winner Announcement
+1.Modern UI with smooth hover effects 🎨
 
-⏪ Undo Move Feature (Fix your mistakes!)
+2.Reset & New Game options 🔄
 
-📱 Responsive Design for all devices
+3.Winner Announcement 🛑
+
+4.Undo Move Feature (Fix your mistakes!) ⏪
+
+5.Responsive Design for all devices 📱
+
 
 
 🛠️ Technologies Used : 
@@ -24,7 +28,8 @@ CSS - Styling and animations
 JavaScript - Game logic and interactions
 
 
-🔥 How to Play : 
+
+How to Play : 
 
 1.Click on any empty box to place your move.
 
